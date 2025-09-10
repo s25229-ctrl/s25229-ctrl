@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Choo Yong Quan Homepage"
+title                    : "Choo Yong Quan's Homepage"
 title_separator          : "-"
 name                     : &name "Choo Yong Quan"
 description              : &description "personal description"
